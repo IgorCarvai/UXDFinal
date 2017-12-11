@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9eab8937878a4684c8adb0d53443c1d2
+timeCreated: 1512622977
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Super Mario Maker Font
+  fontNames:
+  - Super Mario Maker Font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
